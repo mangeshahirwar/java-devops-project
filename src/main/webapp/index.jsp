@@ -1,0 +1,3 @@
+<!DOCTYPE html><html><head><title>Java DevOps Project</title>
+<style>body{font-family:Arial;background:#f5f5f5;text-align:center;margin-top:100px}.card{width:500px;margin:auto;background:#fff;padding:30px;border-radius:10px;box-shadow:0 0 10px gray}</style>
+</head><body><div class='card'><h1>🚀 Java DevOps Project</h1><h3>Version 1.0</h3><p>Java 17 | Maven | Tomcat | Docker | Jenkins | Swarm</p></div></body></html>
